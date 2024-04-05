@@ -1,0 +1,8 @@
+Functional Requirements:
+- User should be able to search contact by first name, last name, comapny, job title, phone number or email address.
+- User can add more contact with first name, last name, company, job title, zero or more phone number, zero or more email address.
+- User can update contact by change any attribute of the contacts.
+- User can delete exisiting contact entirely.
+- Application should detect duplicate and merge those duplicated contact
+- Each email address should contain the actual email address and the label of what kind of email address it is.
+- Each phone number should contain the actual phone number and the label of what kind of phone number it is.
